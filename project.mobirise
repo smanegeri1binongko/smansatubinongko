@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SMA NEGERI 1 BINONGKO",
-    "currentPage": "index.html",
+    "currentPage": "sejarah_sekolah.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -99,8 +99,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
-    "publishEditFolder": false
+    "publishChangesOnly": true,
+    "publishEditFolder": true
   },
   "pages": {
     "sejarah_sekolah.html": {
